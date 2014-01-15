@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e> <lg> <l pos="CS">ainoastaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CONJ_" pos="">set</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">ei ... ei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CONJ_" pos="">äʼb ..., äʼb</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">ei ... eikä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CONJ_" pos="">äʼb ..., äʼb</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">ei muuta kuin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CONJ_" pos="">set</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">että</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">ku</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">ja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="CC_" pos="">ja</t> <t Contlex="CC_" pos="">un</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">jolloin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">kunā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">jos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">aʼž</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">jos vain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">koks</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">koska</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">sīest</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">kuinka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">kus</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">kuinkas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">kus</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">kun</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">ku</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">kunnes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">kuņtš</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">kunpa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">koks</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">kuten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">nemē</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">miksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">mispierāst</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">minkä vuoksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">mispierāst</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">mutta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="CC_" pos="">agā</t> <t Contlex="CC_" pos="">bet</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">olisipa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">koks</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">samalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">misjūs</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">sillä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">sīest</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">sillä aikaa kun</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">kunā</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">sitä paitsi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">misjūs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">vaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CONJ_" pos="">set</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">vaikka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">koks</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">vaikkakin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CS_" pos="">kokska</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">vain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="CONJ_" pos="">set</t> </tg> </mg> </e>
+</r>

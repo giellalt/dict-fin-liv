@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e> <lg> <l pos="Pcle">-ko/kö</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PCLE_" pos="">agā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ehkä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PCLE_" pos="">agā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">kyllä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PCLE_" pos="">kiʼl</t> </tg> </mg> </e>
+</r>

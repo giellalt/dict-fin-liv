@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e> <lg> <l pos="Num">ensimmäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_SĒMI" pos="Num">eʼžmi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeksan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_ÄʼBȚÕKS" pos="Num">kǭʼdõks</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeksankymmentä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_SIELDÕ" pos="Num">kǭʼdõkskimdõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeksansataa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_PADĀ" pos="Num">kǭʼdõkssadā</t> <t Contlex="NUM_PADĀ" pos="Num">kǭʼdõkssaʼddõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeksantoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_APPÕN" pos="Num">kǭʼdõkstuoistõn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeksas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_ĪʼDÕKSMÕZ" pos="Num">kǭʼdõksmõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeksaskymmenes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">kǭʼdõkskimdõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeksassadas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">kǭʼdõkssadāz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeksastoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_TUOISTÕNZ" pos="Num">kǭʼdõkstuoistõnz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeskymmenes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">kǭʼdkimdõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdessadas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">kǭʼdsadāz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdestoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_TUOISTÕNZ" pos="Num">kǭʼdtuoistõnz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_KAKŠ" pos="Num">kakš</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaksikymmentä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_SIELDÕ" pos="Num">kakškimdõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaksisataa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_PADĀ" pos="Num">kakšsadā</t> <t Contlex="NUM_PADĀ" pos="Num">kakšsaʼddõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaksitoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_APPÕN" pos="Num">kakštuoistõn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolmas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_TŪĻI" pos="Num">kuolmi</t> <t Contlex="NUM_VĪDÕZ" pos="Num">kuolmõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolmaskymmenes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">kuolmkimdõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolmassadas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">kuolmsadāz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolmastoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_TUOISTÕNZ" pos="Num">kuolmtuoistõnz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolme</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_IRM" pos="Num">kuolm</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolmekymmentä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_SIELDÕ" pos="Num">kuolmkimdõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolmesataa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_PADĀ" pos="Num">kuolmsadā</t> <t Contlex="NUM_PADĀ" pos="Num">kuolmsaʼddõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolmetoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_APPÕN" pos="Num">kuolmtuoistõn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuinka mones</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">setmõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuudes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">kūdõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuudeskymmenes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">kūdkimdõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuudessadas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">kūdsadāz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuudestoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_TUOISTÕNZ" pos="Num">kūdtuoistõnz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuusi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_ŪŽ" pos="Num">kūž</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuusikymmentä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_SIELDÕ" pos="Num">kūžkimdõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuusisataa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_PADĀ" pos="Num">kūžsadā</t> <t Contlex="NUM_PADĀ" pos="Num">kūžsaʼddõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuusitoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_APPÕN" pos="Num">kūžtuoistõn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kymmenen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_KIM" pos="Num">kim</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kymmenes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">kimmõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kymmenesosa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_SUʼG" pos="Num">kimmõzjaʼg</t> <t Contlex="NUM_RUZŪ" pos="Num">kimmõzjagū</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kymmenisen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_APPÕN" pos="Num">kimgõn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kymmenkunta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_APPÕN" pos="Num">kimgõn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">miljardi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_ĀIGAST" pos="Num">miljard</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">miljoona</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_ĀIGAST" pos="Num">miljon</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">monesko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">setmõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">monta kymmentä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_SIELDÕ" pos="Num">mitskimdõ</t> <t Contlex="NUM_SIELDÕ" pos="Num">setkimdõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">monta sataa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_PADĀ" pos="Num">setsaʼddõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">neljä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_KĒRA" pos="Num">nēļa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">neljäkymmentä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_SIELDÕ" pos="Num">nēļakimdõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">neljännes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_VAʼG" pos="Num">neļļõzjaʼg</t> <t Contlex="NUM_RUZŪ" pos="Num">neļļõzjagū</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">neljäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">neļļõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">neljäsataa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_PADĀ" pos="Num">nēļasadā</t> <t Contlex="NUM_PADĀ" pos="Num">nēļasaʼddõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">neljäskymmenes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">nēļakimdõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">neljässadas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">nēļasadāz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">neljästoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_TUOISTÕNZ" pos="Num">nēļatuoistõnz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">neljätoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_APPÕN" pos="Num">nēļatuoistõn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">parisenkymmentä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_SIELDÕ" pos="Num">pǭrkimdõ</t> <t Contlex="NUM_APPÕN" pos="Num">pǭrkimgõn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">puoli</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_PŪOL" pos="Num">pūol</t> <t Contlex="NUM_TŪĻ" pos="Num">pūoļ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">puolitoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_NAI" pos="Num">pūoltūoizta</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">sadas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">sadāz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">sata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_PADĀ" pos="Num">sadā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_FAKT" pos="Num">seis</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemänkymmentä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_SIELDÕ" pos="Num">seiskimdõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemänsataa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_PADĀ" pos="Num">seissadā</t> <t Contlex="NUM_PADĀ" pos="Num">seissaʼddõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemäntoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_APPÕN" pos="Num">seistuoistõn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_TŪĻI" pos="Num">seismi</t> <t Contlex="NUM_VĪDÕZ" pos="Num">seismõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemäskymmenes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">seiskimdõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemässadas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">seissadāz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemästoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_TUOISTÕNZ" pos="Num">seismõztuoistõnz</t> <t Contlex="NUM_TUOISTÕNZ" pos="Num">seistuoistõnz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">toinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_NAI" pos="Num">tuoi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">tuhannes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_ĪʼDÕKSMÕZ" pos="Num">tūʼontõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">tuhat</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_NǬʼGÕ" pos="Num">tūʼontõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">tusina</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_OKŠ" pos="Num">dutš</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">viides</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">vīdõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">viideskymmenes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">vīdkimdõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">viidessadas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">vīdsadāz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">viidestoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_TUOISTÕNZ" pos="Num">vīdtuoistõnz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">viisi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_ŪŽ" pos="Num">vīž</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">viisikymmentä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_SIELDÕ" pos="Num">vīžkimdõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">viisisataa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_PADĀ" pos="Num">vīžsadā</t> <t Contlex="NUM_PADĀ" pos="Num">vīžsaʼddõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">viisitoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_APPÕN" pos="Num">vīžtuoistõn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">vuosituhat</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_NǬʼGÕ" pos="Num">āigasttūʼontõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yhdeksän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_ÄʼBȚÕKS" pos="Num">īʼdõks</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yhdeksänkymmentä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_SIELDÕ" pos="Num">īʼdõkskimdõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yhdeksänsataa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_PADĀ" pos="Num">īʼdõkssadā</t> <t Contlex="NUM_PADĀ" pos="Num">īʼdõkssaʼddõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yhdeksäntoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_APPÕN" pos="Num">īʼdõkstuoistõn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yhdeksäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_ĪʼDÕKSMÕZ" pos="Num">īʼdõksmõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yhdeksäskymmenes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">īʼdõkskimdõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yhdeksässadas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_VĪDÕZ" pos="Num">īʼdõkssadāz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yhdeksästoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_TUOISTÕNZ" pos="Num">īʼdõkstuoistõnz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yhdestoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="NUM_TUOISTÕNZ" pos="Num">īʼdtuoistõnz</t> <t Contlex="NUM_TUOISTÕNZ" pos="Num">ikštuoistõnz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_ĪKŠ" pos="Num">ikš</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yksitoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="NUM_APPÕN" pos="Num">ikštuoistõn</t> </tg> </mg> </e>
+</r>
