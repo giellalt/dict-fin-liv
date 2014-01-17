@@ -1,181 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<e> <lg> <l pos="Pr">aiheetta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">ilmõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">aikana</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">āigal</t> <t Contlex="POSTP_" pos="">aigiz</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">alapuolella</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">aʼlmõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">alapuolelta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">aʼlmõld</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">alas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">alā</t> <t Contlex="POSTP_" pos="">mǭʼzõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">alla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">allõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">alle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">alā</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">alle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">aʼlmõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">alta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">aldõst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">asemasta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pǟʼzõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">asti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">sǭņõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">avulla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">aʼbkõks</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">edelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">jeʼddõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">edellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">jeʼds</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">edeltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">jeʼdstõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">edessä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">jeʼds</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">edestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">jeʼdstõ</t> <t Contlex="POSTP_" pos="">jeʼdstõ</t> <t Contlex="POSTP_" pos="">pierāst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">enemmän (prepositio komparatiivin muodostamiseksi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">jo</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">ennen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="PREP_" pos="">jeʼdmõl</t> <t Contlex="PREP_" pos="">jeʼds</t> <t Contlex="PREP_" pos="">jeʼdsõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">epä-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">äʼb-</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">eteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">jeʼddõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">ilmaisee tapahtuman kestoa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pǟl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">ilman</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="PREP_" pos="">bäs</t> <t Contlex="PREP_" pos="">īlma</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">johdosta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">ārdiņ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">joukkoon</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">sidāmõlõ</t> <t Contlex="POSTP_" pos="">sidāmt</t><t Contlex="POSTP_" pos="">sieʼggõ</t> <t Contlex="POSTP_" pos="">sieʼggõ</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">joukossa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">sidāmõs</t> <t Contlex="POSTP_" pos="">sidāmt</t><t Contlex="POSTP_" pos="">siegās</t> <t Contlex="POSTP_" pos="">vaʼil</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">joukosta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">sidāmõld</t> <t Contlex="POSTP_" pos="">siegāst</t> <t Contlex="POSTP_" pos="">vaʼild</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">jäljessä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">tagān</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">jälkeen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">pǟlõ</t> <t Contlex="POSTP_" pos="">pǟlõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">jälkeen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">jälkeen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">pieʼrrõ</t> <t Contlex="POSTP_" pos="">tagān</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">kaltainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">kanssa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">kuʼbs</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">kautta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">käʼdkouți</t> <t Contlex="POSTP_" pos="">kouți</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">kautta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">leʼb</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">kerrallaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">pa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">keskelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">sidāmõlõ</t> <t Contlex="POSTP_" pos="">sidāmt</t><t Contlex="POSTP_" pos="">sieʼggõ</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">keskellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">sidāmõl</t> <t Contlex="POSTP_" pos="">sidāmt</t><t Contlex="POSTP_" pos="">siegās</t> <t Contlex="POSTP_" pos="">vaʼil</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">keskeltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">sidāmõld</t> <t Contlex="POSTP_" pos="">siegāst</t> <t Contlex="POSTP_" pos="">vaʼild</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">kesken</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">vaʼil</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">keskuudessa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">siegās</t> <t Contlex="POSTP_" pos="">vaʼil</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">keskuudesta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">siegāst</t> <t Contlex="POSTP_" pos="">vaʼild</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">keskuuteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">sieʼggõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">kestäessä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">āigal</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">kiinni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">kilgsõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">kimpussa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pǟl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">kohdakkain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">kūožõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">kohdalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">kūožõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">kuluessa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">āigal</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">kuluttua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">kädestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">käʼdst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">käsiin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">käʼddõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">käsissä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">käʼds</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">käsistä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">käʼdst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">käytössä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pierāst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">lailla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">mūodõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">liiaksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">pa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">liian</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">pa</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">likelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">leʼžgõlõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">likellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">leʼžgõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">likeltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">leʼžgõld</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">lisää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">jūʼrõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">luokse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">jūʼrõ</t> <t Contlex="POSTP_" pos="">pūolõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">luona</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">jūsõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">luota</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">jūstõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">läheisyyteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">leʼžgõlõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">lähelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">leʼžgõlõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">lähellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">leʼžgõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">läheltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">leʼžgõld</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">lähtien</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pǟlõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">läpi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">leʼb</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">läpi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">leʼbbõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">lävitse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">leʼb</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">maahan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">mǭʼzõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">maissa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">immõr</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">mielestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">jeʼdstõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">mukaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">jeʼdstõ</t> <t Contlex="POSTP_" pos="">pierāst</t> <t Contlex="POSTP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">mukaisesti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">myöten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">perīņ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">nimissä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">niʼmsõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="">nähden</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">iʼļ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">paikkeilla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">immõr</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">pariin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">sieʼggõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">parissa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">jūsõ</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">perässä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">tagān</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">perään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pǟlõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">pitkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">kouți</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">pitkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="PREP_" pos="">perīņ</t> <t Contlex="PREP_" pos="">piʼds</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">poikittain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">arāks</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">puoleen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pūol</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">puolella</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">pūol</t> <t Contlex="POSTP_" pos="">pūolõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">puolellaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pūold</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">puolelta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">pūold</t> <t Contlex="POSTP_" pos="">pūolstõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">puolesta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">jeʼdstõ</t> <t Contlex="POSTP_" pos="">niʼmsõ</t><t Contlex="POSTP_" pos="">pūolstõ</t> <t Contlex="POSTP_" pos="">pūolstõ</t> <t Contlex="POSTP_" pos="">pūolstõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">päin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">pūol</t> <t Contlex="POSTP_" pos="">pūol</t><t Contlex="POSTP_" pos="">pūold</t> <t Contlex="POSTP_" pos="">pūolõ</t><t Contlex="POSTP_" pos="">pūolõ</t> <t Contlex="POSTP_" pos="">pūolõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">päälle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pǟlõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">päällä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pǟl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">päältä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">pǟldõ</t> <t Contlex="POSTP_" pos="">pǟldõst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">päässä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">tutkāmõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">päästä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">rinnakkaisesti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">piʼddõzmīedõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">rinnalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">kilgsõ</t> <t Contlex="POSTP_" pos="">kūoral</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">rinnalle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">kilgõ</t> <t Contlex="POSTP_" pos="">kuorrõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">rinnalta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">kilgstõ</t> <t Contlex="POSTP_" pos="">kūorald</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">saakka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">sǭņõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">samantekevää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">äts</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">seassa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">siegās</t> <t Contlex="POSTP_" pos="">vaʼil</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">seasta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">siegāst</t> <t Contlex="POSTP_" pos="">vaʼild</t> <t Contlex="POSTP_" pos="">vaʼildõst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">sekaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">sieʼggõ</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">sijaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">aʼzmõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">sijalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">aʼzmõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">sijasta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">jeʼdstõ</t> <t Contlex="POSTP_" pos="">pǟʼzõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">sinnepäin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">tūolapūolõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">sisällä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">sizāl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">sisältä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">sizāldõst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">sisässä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">sizāl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">sisästä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">sizāldõst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">sitten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">tāʼgižpēḑõn</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">sivu-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">kīļta</t> </tg> </mg> </e>
-<e> <lg> <l pos="">suhteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">iʼļ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">suhteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pūolstõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">suhteessa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pūolstõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">suotta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">ilmõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">suuntaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pūolõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">syyttä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">ilmõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">taakse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">tagān</t> <t Contlex="POSTP_" pos="">tagānõz</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">takaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">tagānd</t> <t Contlex="POSTP_" pos="">tagāndõst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">takana</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">tagā</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">takaperin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">tāʼgižpēḑõn</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">takia</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">ārdiņ</t> <t Contlex="POSTP_" pos="">pierāst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">tapainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">tavalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">mūodõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">tienoilla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">immõr</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">tilalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">aʼzmõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">tilalle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">aʼzmõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">toisella puolella</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">tuoizpūolsõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">toiselle puolelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">tuoizpūolõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">toiselta puolelta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">tuoizpūolstõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">tuolla puolen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">tūolapūol</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">tuolta puolen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">tūolapūoldõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">tuonnepäin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">tūolapūolõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">turhaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">ilmõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">tähden</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">ārdiņ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">vallassa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">käʼds</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">valtaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">käʼddõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">varten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">jagūks</t> <t Contlex="POSTP_" pos="">pierāst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">vastaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">vastõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">vastapäätä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">vastõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">vastapäätä päin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">vastõst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">vasten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="PREP_" pos="">vast</t> <t Contlex="PREP_" pos="">vastõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">vastoin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="PREP_" pos="">vast</t> <t Contlex="PREP_" pos="">vastõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">viereen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">aʼigõ</t> <t Contlex="POSTP_" pos="">kilgõ</t> <t Contlex="POSTP_" pos="">kuorrõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">vierelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">kilgõ</t> <t Contlex="POSTP_" pos="">kuorrõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">vierellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">kilgsõ</t> <t Contlex="POSTP_" pos="">kūoral</t> <t Contlex="POSTP_" pos="">kūorõks</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">viereltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">kilgstõ</t> <t Contlex="POSTP_" pos="">kūorald</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">vieressä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">aigās</t> <t Contlex="POSTP_" pos="">kilgsõ</t><t Contlex="POSTP_" pos="">kūoral</t> <t Contlex="POSTP_" pos="">kūorõks</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">vierestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">aigāst</t> <t Contlex="POSTP_" pos="">kilgstõ</t> <t Contlex="POSTP_" pos="">kūorald</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">vuoksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">ārdiņ</t> <t Contlex="POSTP_" pos="">pierāst</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">väliin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">vaʼilõ</t> <t Contlex="POSTP_" pos="">vaʼizõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">välille</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">vaʼilõ</t> <t Contlex="POSTP_" pos="">vaʼizõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">välillä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">vaʼil</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> <t Contlex="POSTP_" pos="">vaʼisõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">väliltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">vaʼild</t> <t Contlex="POSTP_" pos="">vaʼildõst</t> <t Contlex="POSTP_" pos="">vaʼistõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">välissä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">vaʼil</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> <t Contlex="POSTP_" pos="">vaʼisõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">välistä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">leʼb</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">välistä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">vaʼild</t> <t Contlex="POSTP_" pos="">vaʼildõst</t> <t Contlex="POSTP_" pos="">vaʼistõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">ylempänä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">iʼlmõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">yli</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">iʼļ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">ylitse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">iʼļ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">yläpuolellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">iʼlmõl</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">ympäri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="PREP_" pos="">immõr</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">ympärille</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">immõr</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pr">ympärillä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">immõr</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">ääreen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">aʼigõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">äärelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">kilgõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">äärellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">kilgsõ</t> <t Contlex="POSTP_" pos="">kūoral</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">ääreltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">kilgstõ</t> <t Contlex="POSTP_" pos="">kūorald</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">ääressä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""><t Contlex="POSTP_" pos="">aigās</t> <t Contlex="POSTP_" pos="">jūsõ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Po">äärestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang=""> <t Contlex="POSTP_" pos="">aigāst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">aiheetta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">ilmõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">aikana</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">āigal</t> <t Contlex="POSTP_" pos="">aigiz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">alapuolella</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">aʼlmõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">alapuolelta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">aʼlmõld</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">alas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">alā</t> <t Contlex="POSTP_" pos="">mǭʼzõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">alla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">allõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">alle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">alā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">alle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">aʼlmõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">alta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">aldõst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">asemasta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pǟʼzõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">asti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">sǭņõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">avulla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">aʼbkõks</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">edelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">jeʼddõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">edellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">jeʼds</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">edeltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">jeʼdstõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">edessä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">jeʼds</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">edestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">jeʼdstõ</t> <t Contlex="POSTP_" pos="">jeʼdstõ</t> <t Contlex="POSTP_" pos="">pierāst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">enemmän (prepositio komparatiivin muodostamiseksi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">jo</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">ennen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="PREP_" pos="">jeʼdmõl</t> <t Contlex="PREP_" pos="">jeʼds</t> <t Contlex="PREP_" pos="">jeʼdsõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">epä-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">äʼb-</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">eteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">jeʼddõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ilmaisee tapahtuman kestoa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pǟl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">ilman</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="PREP_" pos="">bäs</t> <t Contlex="PREP_" pos="">īlma</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">johdosta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">ārdiņ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">joukkoon</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">sidāmõlõ</t> <t Contlex="POSTP_" pos="">sidāmt</t><t Contlex="POSTP_" pos="">sieʼggõ</t> <t Contlex="POSTP_" pos="">sieʼggõ</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">joukossa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">sidāmõs</t> <t Contlex="POSTP_" pos="">sidāmt</t><t Contlex="POSTP_" pos="">siegās</t> <t Contlex="POSTP_" pos="">vaʼil</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">joukosta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">sidāmõld</t> <t Contlex="POSTP_" pos="">siegāst</t> <t Contlex="POSTP_" pos="">vaʼild</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">jäljessä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">tagān</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">jälkeen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">pǟlõ</t> <t Contlex="POSTP_" pos="">pǟlõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">jälkeen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">jälkeen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">pieʼrrõ</t> <t Contlex="POSTP_" pos="">tagān</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kaltainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">kanssa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">kuʼbs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kautta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">käʼdkouți</t> <t Contlex="POSTP_" pos="">kouți</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">kautta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">leʼb</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">kerrallaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">pa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">keskelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">sidāmõlõ</t> <t Contlex="POSTP_" pos="">sidāmt</t><t Contlex="POSTP_" pos="">sieʼggõ</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">keskellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">sidāmõl</t> <t Contlex="POSTP_" pos="">sidāmt</t><t Contlex="POSTP_" pos="">siegās</t> <t Contlex="POSTP_" pos="">vaʼil</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">keskeltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">sidāmõld</t> <t Contlex="POSTP_" pos="">siegāst</t> <t Contlex="POSTP_" pos="">vaʼild</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kesken</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">vaʼil</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">keskuudessa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">siegās</t> <t Contlex="POSTP_" pos="">vaʼil</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">keskuudesta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">siegāst</t> <t Contlex="POSTP_" pos="">vaʼild</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">keskuuteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">sieʼggõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kestäessä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">āigal</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kiinni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">kilgsõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kimpussa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pǟl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kohdakkain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">kūožõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kohdalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">kūožõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kuluessa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">āigal</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kuluttua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kädestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">käʼdst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">käsiin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">käʼddõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">käsissä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">käʼds</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">käsistä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">käʼdst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">käytössä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pierāst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">lailla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">mūodõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">liiaksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">pa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">liian</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">pa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">likelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">leʼžgõlõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">likellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">leʼžgõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">likeltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">leʼžgõld</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">lisää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">jūʼrõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">luokse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">jūʼrõ</t> <t Contlex="POSTP_" pos="">pūolõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">luona</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">jūsõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">luota</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">jūstõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">läheisyyteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">leʼžgõlõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">lähelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">leʼžgõlõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">lähellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">leʼžgõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">läheltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">leʼžgõld</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">lähtien</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pǟlõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">läpi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">leʼb</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">läpi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">leʼbbõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">lävitse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">leʼb</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">maahan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">mǭʼzõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">maissa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">immõr</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">mielestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">jeʼdstõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">mukaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">jeʼdstõ</t> <t Contlex="POSTP_" pos="">pierāst</t> <t Contlex="POSTP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">mukaisesti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">myöten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">perīņ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">nimissä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">niʼmsõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="">nähden</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">iʼļ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">paikkeilla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">immõr</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">pariin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">sieʼggõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">parissa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">jūsõ</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">perässä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">tagān</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">perään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pǟlõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">pitkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">kouți</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">pitkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="PREP_" pos="">perīņ</t> <t Contlex="PREP_" pos="">piʼds</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">poikittain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">arāks</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">puoleen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pūol</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">puolella</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">pūol</t> <t Contlex="POSTP_" pos="">pūolõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">puolellaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pūold</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">puolelta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">pūold</t> <t Contlex="POSTP_" pos="">pūolstõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">puolesta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">jeʼdstõ</t> <t Contlex="POSTP_" pos="">niʼmsõ</t><t Contlex="POSTP_" pos="">pūolstõ</t> <t Contlex="POSTP_" pos="">pūolstõ</t> <t Contlex="POSTP_" pos="">pūolstõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">päin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">pūol</t> <t Contlex="POSTP_" pos="">pūol</t><t Contlex="POSTP_" pos="">pūold</t> <t Contlex="POSTP_" pos="">pūolõ</t><t Contlex="POSTP_" pos="">pūolõ</t> <t Contlex="POSTP_" pos="">pūolõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">päälle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pǟlõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">päällä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pǟl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">päältä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">pǟldõ</t> <t Contlex="POSTP_" pos="">pǟldõst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">päässä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">tutkāmõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">päästä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">rinnakkaisesti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">piʼddõzmīedõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">rinnalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">kilgsõ</t> <t Contlex="POSTP_" pos="">kūoral</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">rinnalle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">kilgõ</t> <t Contlex="POSTP_" pos="">kuorrõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">rinnalta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">kilgstõ</t> <t Contlex="POSTP_" pos="">kūorald</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">saakka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">sǭņõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">samantekevää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">äts</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">seassa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">siegās</t> <t Contlex="POSTP_" pos="">vaʼil</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">seasta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">siegāst</t> <t Contlex="POSTP_" pos="">vaʼild</t> <t Contlex="POSTP_" pos="">vaʼildõst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sekaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">sieʼggõ</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sijaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">aʼzmõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sijalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">aʼzmõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sijasta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">jeʼdstõ</t> <t Contlex="POSTP_" pos="">pǟʼzõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">sinnepäin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">tūolapūolõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sisällä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">sizāl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sisältä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">sizāldõst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sisässä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">sizāl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sisästä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">sizāldõst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sitten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">tāʼgižpēḑõn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">sivu-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">kīļta</t> </tg> </mg> </e>
+<e> <lg> <l pos="">suhteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">iʼļ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">suhteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pūolstõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">suhteessa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pūolstõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">suotta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">ilmõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">suuntaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pūolõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">syyttä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">ilmõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">taakse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">tagān</t> <t Contlex="POSTP_" pos="">tagānõz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">takaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">tagānd</t> <t Contlex="POSTP_" pos="">tagāndõst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">takana</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">tagā</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">takaperin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">tāʼgižpēḑõn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">takia</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">ārdiņ</t> <t Contlex="POSTP_" pos="">pierāst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">tapainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">pieʼrrõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">tavalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">mūodõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">tienoilla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">immõr</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">tilalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">aʼzmõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">tilalle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">aʼzmõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">toisella puolella</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">tuoizpūolsõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">toiselle puolelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">tuoizpūolõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">toiselta puolelta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">tuoizpūolstõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">tuolla puolen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">tūolapūol</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">tuolta puolen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">tūolapūoldõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">tuonnepäin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">tūolapūolõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">turhaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">ilmõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">tähden</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">ārdiņ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">vallassa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">käʼds</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">valtaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">käʼddõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">varten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">jagūks</t> <t Contlex="POSTP_" pos="">pierāst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">vastaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">vastõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">vastapäätä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">vastõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">vastapäätä päin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">vastõst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">vasten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="PREP_" pos="">vast</t> <t Contlex="PREP_" pos="">vastõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">vastoin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="PREP_" pos="">vast</t> <t Contlex="PREP_" pos="">vastõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">viereen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">aʼigõ</t> <t Contlex="POSTP_" pos="">kilgõ</t> <t Contlex="POSTP_" pos="">kuorrõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">vierelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">kilgõ</t> <t Contlex="POSTP_" pos="">kuorrõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">vierellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">kilgsõ</t> <t Contlex="POSTP_" pos="">kūoral</t> <t Contlex="POSTP_" pos="">kūorõks</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">viereltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">kilgstõ</t> <t Contlex="POSTP_" pos="">kūorald</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">vieressä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">aigās</t> <t Contlex="POSTP_" pos="">kilgsõ</t><t Contlex="POSTP_" pos="">kūoral</t> <t Contlex="POSTP_" pos="">kūorõks</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">vierestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">aigāst</t> <t Contlex="POSTP_" pos="">kilgstõ</t> <t Contlex="POSTP_" pos="">kūorald</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">vuoksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">ārdiņ</t> <t Contlex="POSTP_" pos="">pierāst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">väliin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">vaʼilõ</t> <t Contlex="POSTP_" pos="">vaʼizõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">välille</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">vaʼilõ</t> <t Contlex="POSTP_" pos="">vaʼizõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">välillä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">vaʼil</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> <t Contlex="POSTP_" pos="">vaʼisõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">väliltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">vaʼild</t> <t Contlex="POSTP_" pos="">vaʼildõst</t> <t Contlex="POSTP_" pos="">vaʼistõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">välissä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">vaʼil</t> <t Contlex="POSTP_" pos="">vaʼilõ</t> <t Contlex="POSTP_" pos="">vaʼisõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">välistä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">leʼb</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">välistä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">vaʼild</t> <t Contlex="POSTP_" pos="">vaʼildõst</t> <t Contlex="POSTP_" pos="">vaʼistõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">ylempänä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">iʼlmõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">yli</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">iʼļ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">ylitse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">iʼļ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">yläpuolellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">iʼlmõl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">ympäri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="PREP_" pos="">immõr</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ympärille</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">immõr</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">ympärillä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">immõr</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ääreen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">aʼigõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">äärelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">kilgõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">äärellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">kilgsõ</t> <t Contlex="POSTP_" pos="">kūoral</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ääreltä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">kilgstõ</t> <t Contlex="POSTP_" pos="">kūorald</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ääressä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"><t Contlex="POSTP_" pos="">aigās</t> <t Contlex="POSTP_" pos="">jūsõ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">äärestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="liv"> <t Contlex="POSTP_" pos="">aigāst</t> </tg> </mg> </e>
 </r>
