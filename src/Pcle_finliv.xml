@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l pos="Pcle">-ko/-kö</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="liv">
+        <t Contlex="PCLE_" pos="Pcle">või</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">kyllä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="liv">
+        <t Contlex="PCLE_" pos="Pcle">kiʼl</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">-ko/kö</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="liv">
+        <t Contlex="PCLE_" pos="Pcle">agā</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">ehkä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="liv">
+        <t Contlex="PCLE_" pos="Pcle">agā</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="PCLE-MOD">niin on </l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="liv">
+        <t Contlex="PCLE-MOD_" pos="Pcle">niʼm</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="PCLE-MOD">onkos</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="liv">
+        <t Contlex="PCLE-MOD_" pos="Pcle">vȯšiz</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="PCLE-MOD">onko siis</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="liv">
+        <t Contlex="PCLE-MOD_" pos="Pcle">vȯšiz</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="PCLE-MOD">ihanko totta?!</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="liv">
+        <t Contlex="PCLE-MOD_" pos="Pcle">võseʼm</t>
+      </tg>
+    </mg>
+  </e>
+</r>
